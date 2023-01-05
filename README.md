@@ -17,4 +17,4 @@ streamlit run trendy.app
 ```
 
   
-Look at the terminal, the IP adress will appear. Note it and paste it on your favoriite search engine.
+Look at the terminal, the IP adress will appear. Note it and paste it on your favorite search engine.
